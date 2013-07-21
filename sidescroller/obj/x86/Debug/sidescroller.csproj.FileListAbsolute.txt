@@ -1,0 +1,45 @@
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\bin\x86\Debug\sidescroller.exe
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\bin\x86\Debug\sidescroller.pdb
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\obj\x86\Debug\sidescroller.exe
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\obj\x86\Debug\sidescroller.pdb
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\bin\x86\Debug\Content\textures\environment\land.xnb
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\bin\x86\Debug\Content\textures\environment\clouds.xnb
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\bin\x86\Debug\Content\textures\players\char.xnb
+D:\programming\oh hai\sidescroller\sidescroller\bin\x86\Debug\Content\textures\environment\land.xnb
+D:\programming\oh hai\sidescroller\sidescroller\bin\x86\Debug\Content\textures\environment\clouds.xnb
+D:\programming\oh hai\sidescroller\sidescroller\bin\x86\Debug\Content\textures\players\char.xnb
+D:\programming\oh hai\sidescroller\sidescroller\bin\x86\Debug\sidescroller.exe
+D:\programming\oh hai\sidescroller\sidescroller\bin\x86\Debug\sidescroller.pdb
+D:\programming\oh hai\sidescroller\sidescroller\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\programming\oh hai\sidescroller\sidescroller\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\programming\oh hai\sidescroller\sidescroller\obj\x86\Debug\sidescroller.exe
+D:\programming\oh hai\sidescroller\sidescroller\obj\x86\Debug\sidescroller.pdb
+G:\programming\oh hai\Sidescroller\1\sidescroller\bin\x86\Debug\Content\textures\environment\land.xnb
+G:\programming\oh hai\Sidescroller\1\sidescroller\bin\x86\Debug\Content\textures\environment\clouds.xnb
+G:\programming\oh hai\Sidescroller\1\sidescroller\bin\x86\Debug\Content\textures\players\char.xnb
+G:\programming\oh hai\Sidescroller\1\sidescroller\bin\x86\Debug\sidescroller.exe
+G:\programming\oh hai\Sidescroller\1\sidescroller\bin\x86\Debug\sidescroller.pdb
+G:\programming\oh hai\Sidescroller\1\sidescroller\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\programming\oh hai\Sidescroller\1\sidescroller\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\programming\oh hai\Sidescroller\1\sidescroller\obj\x86\Debug\sidescroller.exe
+G:\programming\oh hai\Sidescroller\1\sidescroller\obj\x86\Debug\sidescroller.pdb
+G:\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\Content\textures\environment\land.xnb
+G:\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\Content\textures\environment\clouds.xnb
+G:\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\Content\textures\players\char.xnb
+G:\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\sidescroller.exe
+G:\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\sidescroller.pdb
+G:\programming\oh hai\Sidescroller\3\sidescroller\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\programming\oh hai\Sidescroller\3\sidescroller\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\programming\oh hai\Sidescroller\3\sidescroller\obj\x86\Debug\sidescroller.exe
+G:\programming\oh hai\Sidescroller\3\sidescroller\obj\x86\Debug\sidescroller.pdb
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\Content\textures\environment\land.xnb
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\Content\textures\environment\clouds.xnb
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\Content\textures\players\char.xnb
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\sidescroller.exe
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\bin\x86\Debug\sidescroller.pdb
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\obj\x86\Debug\sidescroller.exe
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\obj\x86\Debug\sidescroller.pdb

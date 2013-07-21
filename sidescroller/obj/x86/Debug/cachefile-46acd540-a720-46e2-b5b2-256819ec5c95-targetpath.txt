@@ -1,0 +1,3 @@
+Content\textures\environment\land.xnb
+Content\textures\environment\clouds.xnb
+Content\textures\players\char.xnb

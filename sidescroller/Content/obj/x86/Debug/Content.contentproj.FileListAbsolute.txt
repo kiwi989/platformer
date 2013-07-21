@@ -1,0 +1,5 @@
+D:\programming\oh hai\sidescroller\sidescroller\sidescroller\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\programming\oh hai\sidescroller\sidescroller\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\programming\oh hai\Sidescroller\1\sidescroller\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\programming\oh hai\Sidescroller\3\sidescroller\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\D drive\programming\oh hai\Sidescroller\3\sidescroller\Content\obj\x86\Debug\ResolveAssemblyReference.cache
